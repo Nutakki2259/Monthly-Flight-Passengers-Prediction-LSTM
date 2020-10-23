@@ -4,9 +4,13 @@ Pytorch based Long Short-Term Memory(LSTM) model on total passengers forecasting
 ## Pre-Requests:
 ### Download:
 **.** Repository:
+                
                 **1.** If you want to download directly there is a download button on the right corner of this repository or else use Command Prompt. 
+                
                 **2.** In Windows first install Git software Open Command Prompt--> git clone https://github.com/Nutakki2259/Monthly-Flight-Passengers-Prediction-Using-LSTM-Model-on-Inbuilt-Seaborn-Dataset.git
+                
                 **3.** In Anaconda Open Command Prompt--> conda activate <conda environment name> --> git clone https://github.com/Nutakki2259/Monthly-Flight-Passengers-Prediction-Using-LSTM-Model-on-Inbuilt-Seaborn-Dataset.git
+
 Note: The folder will be saved at the place where the command prompt shows activate for example: '(Python3.7) C:\Users\pradeep>git clone https://github.com/Nutakki2259/Monthly-Flight-Passengers-Prediction-Using-LSTM-Model-on-Inbuilt-Seaborn-Dataset.git'
 
 **.** Dataset: The dataset is directly an inbulit of Seaborn as 'flights'. So, directly downloaded in the hupyter notebook.
