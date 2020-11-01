@@ -35,6 +35,7 @@ The **Pre-Trained Model** defines the test data on the understanding parameteres
 
 ## 7. Plot for the Predicted Flight Passengers 
 The plot is between the original dataset values and predicted data by the network. The model predicts better on continuous tuning of hyperparameters for time-series dataset.
+![Predictions](https://github.com/Nutakki2259/Monthly-Flight-Passengers-Prediction-LSTM/blob/main/predictions.PNG)
 
 ### References
 https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/
